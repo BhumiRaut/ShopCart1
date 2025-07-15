@@ -365,7 +365,7 @@ ShopCart1/
 ---
 ##Output(screenshot)
 
-![Screenshot](14.png)
+![Screenshot](images/14.png)
 
 ----
 
