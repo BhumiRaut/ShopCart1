@@ -123,5 +123,5 @@ ShopCart1/
 ────────────────────────────  
 - 👤 Name   : Bhumi Yuvraj Raut 
 - ✉ Email  : bhumiraut5555@gamil.com 
-- 🐙 GitHub : BhumiRaut# 🛒 OnlineShoppingCart
+- 🐙 GitHub : BhumiRaut/ShopCart1
 
